@@ -5,7 +5,7 @@
 [![Build Status](https://github.com/sjkelly/NetUptime.jl/workflows/CI/badge.svg)](https://github.com/sjkelly/NetUptime.jl/actions)
 
 
-This is an example project for building Julia commandline apps.
+This is an example Julia command line app to monitor, log, and plot network connections.
 
 ## Building
 
