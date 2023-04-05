@@ -1,0 +1,3 @@
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+NetUptime = "de6b46db-b3d2-4c86-b47f-ae55b7627d36"
